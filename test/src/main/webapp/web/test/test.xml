@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<Users>
+ <User id="2" name="ABC" Division="HR"><a>aaa</a> </User>
+ <User id="3" name="xyz" Division="Admin"><a>bbbb</a></User> 
+ <User id="4" name="LMN" Division="Payroll"><a>cccc</a></User> 
+ <User id="5" name="PQR" Division="HR"><a>dddd</a></User> 
+</Users>

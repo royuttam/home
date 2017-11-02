@@ -1,0 +1,35 @@
+span, body {
+	font-family: "arial", sans-serif;
+	font-size:90%;
+text-align: justify; 
+
+}
+span.author {
+	color: blue;
+}
+span.author1 {
+	color: red;
+	font-weight: bold;
+}
+
+span.title {
+	color: black;
+}
+span.conf {
+	color: blue;
+}
+
+body { 
+	max-width: 43em; 
+	background-color : #DBE9E1;
+}
+
+td {
+	bgcolor : #DBE9E1;
+	bordercolor : #FF0000;
+}
+
+html > body > ul > li {
+	font-weight: bold;
+	color: #0000FF;
+}

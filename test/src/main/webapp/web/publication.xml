@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="publication.xsl"?>
+<publications>
+<area category="Wireless Computing">
+<publication  type="journal" year="2016">
+		<title>More Randomness Of Improved Rc4 (Irc4) Than Original Rc4</title>
+		<author>Hemanta Dey</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Journal Of Pure And Applied Research In Engineering AndTechnology, Vol 2(7), pp 149-157, March 2016</publisher>
+		<file>papersSubjectWise/m/m17.pdf</file>
+</publication>
+<publication  type="conf" year="2016">
+		<title>Modified ZigBee Tree Addressing to Support Arbitrary Tree Networks</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. of 3rd International Conference Applications and Innovations in Mobile Computing (AIMoC 2016). February 10-12, 2016, pp 39-45</publisher>
+ 		
+</publication>
+
+<publication  type="conf" year="2016">
+		<title>Source-Initiated Routing to Support Large-scale Pseudo-Linear ZigBee Networks</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. of First International Conference on Intelligent Computing and Communication (ICIC2 16). February 18-19, 2016, accepted</publisher>
+</publication>
+
+<publication  type="conf" year="2016">
+		<title>Introspecting Effect of Packet Size on End-to-end Network Delay</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. of First International Conference on Intelligent Computing and Communication (ICIC2 16). February 18-19, 2016, accepted</publisher>
+</publication>
+
+<publication  type="conf" year="2016">
+		<title>Enhancing ZigBee Tree Routing to Support Large Pseudo-Linear Network Topologies</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. of International Conference on Control, Instrumentation, Energy &amp; Communication (CIEC 16). January 28-30, 2016, IEEE Conference Record Number: 36757, pp 501-505</publisher>
+		<file>papersSubjectWise/m/m16.pdf</file>
+</publication>
+
+<publication  type="conf" year="2016">
+		<title>Combined Hybrid Routing Algorithm for WPAN</title>
+		<author>Debabrata Giri</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. of International Conference on Control, Instrumentation, Energy &amp; Communication (CIEC 16). January 28-30, 2016, IEEE Conference Record Number: 36757, pp 501-505</publisher>
+</publication>
+
+<publication  type="conf" year="2016">
+		<title>An approach to find out the optimal randomness using parallel s-boxes in RC4</title>
+		<author>Hemanta Dey</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. International Conference on Business and Information Management (ICBIM 16). January 09-11, 2016, pp 1-6</publisher>
+</publication>
+
+<publication  type="conf" year="2015">
+		<title>Modified Source-Routing for Large-Scale Pseudo Linear ZigBee Networks</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc.  of IEEE INTERNATIONAL CONFERENCE ON RESEARCH IN COMPUTATIONAL INTELLIGENCE AND COMMUNICATION NETWORKS (ICRCICN 2015). November 20-22, 2015, IEEE Conference Record Number: 36801, pp. 85-89, </publisher>
+</publication>
+
+
+<publication  type="conf" year="2015">
+		<title>Enhanced ZigBee Tree Addressing for Flexible Network Topologies</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Parama Bhaumik</author>
+		<publisher>2nd International Conference Applications and Innovations in Mobile Computing (AIMoC 2015)</publisher>
+</publication>
+<publication  type="conf" year="2014">
+		<title>Light-Weight Addressing and Routing Schemes for Resource-Constrained WPAN Devices</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. Of 8th International Conference on Sensing Technology (ICST 2014), September 2-4, 2014, Liverpool, UK.p46-51, ISSN-1178-5608, http://www.s2is.org/icst-2014/papers/1569952549.pdf </publisher>
+</publication>
+<publication  type="conf" year="2014">
+		<title>Extending ZigBee Tree Routing Protocol for Resource-Constrained Devices</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Asia Pacific Conference Wireless and Mobile (APWiMob2014), August 28-30, 2014, Bali, Indonesia, p-48-53, http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6920261&amp;tag=1</publisher>
+</publication>
+
+<publication  type="conf" year="2014">
+		<title>Variable-Length Addressing and Routing for Resource-Constrained ZigBee Devices</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Conference on Computer, Control, Informatics and Its Application – 2014, 21-23 October, 2014(Accepted)</publisher>
+</publication>
+
+<publication  type="conf" year="2014">
+		<title>Multi Channel Personal Area Network(MCPAN) Formation and Routing</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Debabrata Giri</author>
+		<publisher>International Conference on Industrial Engineering Science and Applications (IESA 2014), April 2-4, 2014, p 73-79</publisher>
+</publication>
+
+<publication  type="journal" year="2013">
+		<title>WPAN Routing Using Huffman Technique</title>
+		<author>Debabrata Giri</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Journal of Engineering Sciences, Vol (2), No (2), February, 2013 Pages 49-61, ISSN: 2306-6474. http://waprogramming.com/index.php?action=paper&amp;jid=5&amp;iid=36&amp;pid=167</publisher>
+</publication>
+
+<publication  type="journal" year="2013">
+		<title>Multilevel Address Reorganization Type 2 I N Wireless Personal Area Network</title>
+		<author>Debabrata Giri</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Journal of Wireless &amp; Mobile Networks (IJWMN) Vol 05, No. 1 February 2013, 01, pages 47 - 64., , ISSN: 0975–4679, e-ISSN : 0975–3834, DOI: 10.5121/ijwmn.2013.5104, http://airccse.org/journal/jwmn/0213wmn04.pdf,</publisher>
+</publication>
+
+<publication  type="conf" year="2009">
+		<title>An Efficient Algorithm to Reconstruct a Minimum Spanning Tree in an Asynchronous Distributed Systems</title>
+		<author>Suman Kundu</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>17th International Conference on Advanced Computing and Communications (ADCOM), December 14-17, 2009, Calcutta University, Kolkata, India</publisher>
+</publication>
+<publication type="conf" year="2009">
+		<title>Single Level Address Reorganization In Wireless Personal Area Network</title>
+		<author>Debabrata Giri</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>4th International Conference on Computers &amp; Devices for Communication, December 14-16, 2009, Dept. of Radio Physics and Electronics, CU, Kolkata, India</publisher>
+</publication>
+<publication type="conf">
+		<title>Address Borrowing In Wireless Personal Area Network</title>
+		<author>Debabrata Giri</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. of IEEE International Advanced Computing Conference, (IACC ’09, March 6-7), Patiala, India,  page no 1074-1079</publisher>
+</publication>
+<publication>
+		<title>Analysis and Optimization of Routing Protocols in IEEE802.15.4</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Debarshi Kumar Sanyal</author>
+		<author>Sudeepta Ray</author>
+		<publisher>Proc. of the 4th Asian International Mobile Computing Conference (AMOC 2006), January 4-7, Jadavpur University, Kolkata, India, page no. 172-181</publisher>
+</publication>
+<publication>
+		<title>Analysis and Optimization Of Routing Protocols In Wireless Personal Area Networks</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Debarshi Kumar Sanyal</author>
+		<author>Sudeepta Ray</author>
+		<author>Samiran Chattopadhyay</author>
+		<publisher>IASTED International Conference on Parallel and Distributed Computing and Systems (PDCS 2005), Phoenix, USA, Nov 14-16, 2005</publisher>
+</publication>
+</area>
+
+<area category="Steganography">
+<publication type="journal">
+		<title>Text Based Steganography – A Theoretical Proposal of Text Based Hiding Strategy</title>
+		<author>Ayan Chatterjee</author>
+		<author>Gourab Dolui</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Journal of Scientific &amp; Engineering Research, Volume 6, Issue 11, November-2015, DOI: 10.14299/ijser.2015.11.005, ISSN 2229-5518, pp 625-629 </publisher>
+</publication>
+
+</area>
+
+<area category="RFID">
+<publication type="journal">
+		<title>XRFID: Design of an XML Based Efficient Middleware for RFID Systems</title>
+		<author>Indrajit Bhattacharya</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Journal of Radio Frequency Identification and Wireless Sensor Networks, Vol 1, No. 1, July 2011, ISSN:1847-9812, pp. 44-52, </publisher>
+</publication>
+
+<publication type="journal">
+		<title>Tracking and monitoring of tagged objectse employing particle swarm optimization algorithm in a departmental store</title>
+		<author>Indrajit Bhattacharya</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>IIUM Engineering Journal, p 1-12, Vol. 12, No. 1, 2011 </publisher>
+</publication>
+
+
+<publication>
+		<title>Performance Analysis Of Anti Collision Algorithms For Tracking Objects Containing Passive RFID Tags</title>
+		<author>Indrajit Bhattacharya</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Journal of Information Technology And Knowledge Management, July-December 2009, Vol-2, No-2, pp. 425-429</publisher>
+</publication>
+<publication>
+		<title>Optimal Placement of Readers in an RFID Network Using Particle Swarm Optimization</title>
+		<author>Indrajit Bhattacharya</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Journal of Computer Networks and Communication, Vol 2, No. 6, November 2010, ISSN:0975-2293,  pp. 225-234</publisher>
+</publication>
+
+</area>
+
+<area category="Distributed Computing">
+<publication>
+		<title>An Efficient Decentralized Middleware-based Load Balancing in state-full CORBA Object System</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Samiran Chattopadhyay</author>
+		<publisher>Proc. of The 4th International Conference on ”Computer Science and Information Technology”(CSIT 2006), April 5-7, 2006, Amman, Jordan, vol. 1, page 317-326</publisher>
+</publication>
+<publication>
+		<title>Interceptor-based CORBA Object Proxy Caching System</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Samiran Chattopadhyay</author>
+		<publisher>Proc. of the 1st IEEE International Conference of Computer Communications and Signal Processing (CCSP 2005, Nov 14-16), Kuala Lumpur, Malaysia, p 262-265</publisher>
+</publication>
+
+<publication>
+		<title>Wraper based Object Caching in CORBA</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Samiran Chattopadhyay</author>
+		<publisher>Proc. of Computing, Communications and Control Technologies, CCCT ’04, August 14-17, University of Texas, Austin, USA, Vol-1, page no. 211-216</publisher>
+</publication>
+
+<publication>
+		<title>Some studies on Object Caching in CORBA</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Samiran Chattopadhyay</author>
+		<publisher>Proc. of Distributed Processing and Networking, DPN ’04, IIT Kharagpur, India, page no 18-22</publisher>
+</publication>
+
+<publication>
+		<title>Event Service Based Architecture for Object Caching in CORBA</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Samiran Chattopadhyay</author>
+		<author>Amit Ranjan Gantait</author>
+		<publisher>Proceedings of the 6th International Conference/Exhibition on High Performance Computing in Asia-Pacific Region (HiPC,  December 18-21 2002, Bangalore, India), Tata McGraw Hill, Volume 2, page no. 583-584</publisher>
+</publication>
+
+</area>
+
+<area category="Voice Processing">
+<publication type="journal">
+		<title>Modified PSOLA-Genetic Algorithm based approach for Voice Re-Construction</title>
+		<author>Banerjee P.S.</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Journal of Information Technology,  Publishing India Group, vol. 2, no. 4, pp. 1–9, Sep-Nov 2013, ISSN No. 2277-5110. URL: http://www.imanagerpublications.com/Author/ArticleHTML.aspx?articleID=2538&amp;issueid=493</publisher>
+</publication>
+</area>
+<area category="Music Synthesis">
+<publication type="conf">
+		<title>Transcription to Instrumental Music Synthesis with Tabla</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>2016 IEEE International Conference on Signal and Image Processing, Accepted</publisher>
+
+</publication>
+<publication type="conf">
+		<title>Synthesizing Instrumental Music from Transcription with Tabla</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Conference on Multimedia Systems and Signal Processing (ICMSSP 2016), Accepted</publisher>
+</publication>
+
+<publication type="conf">
+		<title>Concatenated Tabla Sound Synthesis to Help Musicians</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>4th ICACCI’15 Doctoral Consortium</publisher>
+</publication>
+<publication type="conf">
+		<title>Composing Recorded Tabla Sound to Accompany Musicians</title>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Proc. Of 2015 Annual IEEE India Conference (INDICON) - Communication &amp; Signal Processing</publisher>
+</publication>
+
+</area>
+
+<area category="Bio-Informatics">
+<publication type="conf">
+		<title>Bio-Informatics – Review on Current Research and Evolution of Cancer Targeted Therapies</title>
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Communications on Applied Electronics 4(3):48-55, January 2016. Published by Foundation of Computer Science (FCS), NY, USA.DOI-10.5120/cae2016652049</publisher>
+</publication>
+
+<publication type="conf">
+		<title>Cancer Bio-Informatics New Future of Cancer Therapy</title>
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Journal of Scientific &amp; Engineering Research, Volume 6, Issue 11, November-2015, DOI: 10.14299/ijser.2015.11.006, ISSN 2229-5518, pp 612-617 </publisher>
+</publication>
+
+<publication type="conf">
+		<title>Bio-Informatics - Next Generation Cancer Targeted Therapies</title>
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Journal of Current Engineering and Technology, Volume 5, Issue 6, December-2015, DOI: 10.14741/Ijcet/22774106/5.6.2015.66, E-ISSN 2277 – 4106, P-ISSN 2347 – 5161, pp 3866-3871 </publisher>
+</publication>
+
+<publication type="conf">
+		<title>Stable drug designing by minimizing drug protein interaction energy using PSO</title>
+		<author>Anupam Ghosh </author>
+		<author>Mainak Talukdar</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Fifth International Conference on Advances in Computing and Information Technology (ACITY 2015) July 25~26, 2015, Chennai, India, ISSN: 2231 - 5403 ,  Volume 5, Number 13, July 2015, ISBN : 978-1-921987-41-0, pp. 63–74, DOI: 10.5121/csit.2015.51306</publisher>
+</publication>
+<publication type="conf">
+		<title>Determining Stable Ligand Orientation Using Particle Swarm Optimization</title>
+		<author>Anupam Ghosh </author>
+		<author>Mainak Talukdar</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>Journal of Artificial Intelligence &amp; Applications (IJAIA) Vol. 6, No. 5, September 2015, ISSN : 0975-900X(Online), 0976-2191(Print), pp. 109–119, DOI: 10.5121/ijaia.2015.6508 </publisher>
+</publication>
+
+</area>
+
+<area category="Re-newable Energy">
+<publication type="conf">
+		<title>Future Energy Source: An Introspection</title>
+		<author>Uttam Kumar Roy</author>
+		<author>Gitashri Mahapatra</author>
+		<publisher>Journal of Wind and Renewable Energy. vol. 4, issue 2, 2015, pp. 45-48, ISSN: 2277-3975, http://ijwre.org/index.php?option=com_jresearch&amp;view=publications&amp;Itemid=495</publisher>
+</publication>
+</area>
+
+<area category="Optical Networks/Communication">
+<publication type="journal">
+		<title>Advancement of Fixed Net Broadband connection in Copper and Hybrid Fiber with VDSL and GIGA COAX</title>
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<author>Nibedita Pahari</author>
+		<publisher>Advancement of Fixed Net Broadband connection in Copper and Hybrid Fiber with VDSL and GIGA COAX. Communications on Applied Electronics 5(7):22-28, July 2016, DOI: 10.5120/cae2016652320</publisher>
+</publication>
+<publication type="conf">
+		<title>Advancement of Fixed Net Tele Communication and Different Services</title>
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<author>Nibedita Pahari</author>
+		<publisher>3rd INTERNATIONAL CONFERENCE ON OPTO-ELECTRONICS AND APPLIED OPTICS,2016(OPTRONIX-2016), Accepted </publisher>
+</publication>
+
+</area>
+</publications>

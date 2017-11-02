@@ -1,0 +1,19 @@
+span, body {
+	font-family: "arial", sans-serif;
+	font-size:100%;
+text-align: justify; 
+
+}
+span.author {
+	color: green;
+	font-weight: bold;
+
+}
+span.title {
+	color: red;
+}
+span.conf {
+	color: blue;
+}
+
+body { max-width: 43em; }
