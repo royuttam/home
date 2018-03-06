@@ -19,7 +19,7 @@
 		<title>Non-Invasive CardioVascular Monitoring</title>		
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Journal of Environmental Science, Computer Science and Engineering &amp; Technology, December 2017- February 2018; Sec. B; Vol.7. No.1, 033-047. E-ISSN: 2278â€“179X, [DOI: 10.24214/jecet.B.7.1.03347]</publisher>
+		<publisher>Journal of Environmental Science, Computer Science and Engineering &amp; Technology, December 2017- February 2018; Sec. B; Vol.7. No.1, pp 33-47. E-ISSN: 2278-179X, [DOI: 10.24214/jecet.B.7.1.03347]</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
@@ -27,7 +27,7 @@
 		<title>Non-Invasive CardioVascular Monitoring, A Review Article on Latest PPG Signal based on Computer Science Researches</title>		
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Journal for Research in Engineering Application &amp; Management,  ISSN : 2454-9150 Vol-03, Issue-10, Jan 2018</publisher>
+		<publisher>Journal for Research in Engineering Application &amp; Management,  ISSN : 2454-9150 Vol-03, Issue-10, Jan 2018, pp 55-61</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
@@ -36,6 +36,14 @@
 		<author>Arijit Ukil</author>
 		<author>Uttam Kumar Roy</author>
 		<publisher>Proc. of 2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), ISSN: 2166-9589, DOI: 10.1109/PIMRC.2017.8292659, http://ieeexplore.ieee.org/document/8292659/</publisher>
+		<file>papersSubjectWise/m/m17.pdf</file>
+</publication>
+
+<publication  category="Conference" year="2018" area="Health Analysis">
+		<title>Algorithm To Calculate BPM By Eliminating Touch Errors on Mobile Camera &amp; Observation</title>		
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Conference On New Trends In Engineering &amp; Technology(ICNTET-2018),IEEE Record #44368, just accepted</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
@@ -97,7 +105,7 @@
 <publication  category="Conference" year="2016" area="Mobile/Wireless Computing">
 		<title>A Introspection on Effect of Framing and Bit-Error on Packet Delay</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>International Conference on Computer and Applications(ICCAÂ’16), September 14-15, 2016, Dubai, United Arab Emirates, Accepted</publisher>
+		<publisher>International Conference on Computer and Applications(ICCA’16), September 14-15, 2016, Dubai, United Arab Emirates, Accepted</publisher>
 </publication>
 
 <publication  category="Journal" year="2016" area="Mobile/Wireless Computing">
@@ -183,7 +191,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 <publication  category="Conference" year="2014" area="Mobile/Wireless Computing">
 		<title>Variable-Length Addressing and Routing for Resource-Constrained ZigBee Devices</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>International Conference on Computer, Control, Informatics and Its Application Â– 2014, 21-23 October, 2014(Accepted)</publisher>
+		<publisher>International Conference on Computer, Control, Informatics and Its Application – 2014, 21-23 October, 2014(Accepted)</publisher>
 </publication>
 
 <publication  category="Conference" year="2014" area="Mobile/Wireless Computing">
@@ -204,7 +212,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>Multilevel Address Reorganization category 2 I N Wireless Personal Area Network</title>
 		<author>Debabrata Giri</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>International Journal of Wireless &amp; Mobile Networks (IJWMN) Vol 05, No. 1 February 2013, 01, pages 47 - 64., , ISSN: 0975Â–4679, e-ISSN : 0975Â–3834, DOI: 10.5121/ijwmn.2013.5104, http://airccse.org/Journal/jwmn/0213wmn04.pdf,</publisher>
+		<publisher>International Journal of Wireless &amp; Mobile Networks (IJWMN) Vol 05, No. 1 February 2013, 01, pages 47 - 64., , ISSN: 0975–4679, e-ISSN : 0975–3834, DOI: 10.5121/ijwmn.2013.5104, http://airccse.org/Journal/jwmn/0213wmn04.pdf,</publisher>
 </publication>
 
 <publication  category="Conference" year="2009" area="Mobile/Wireless Computing">
@@ -223,7 +231,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>Address Borrowing In Wireless Personal Area Network</title>
 		<author>Debabrata Giri</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc. of IEEE International Advanced Computing Conference, (IACC Â’09, March 6-7), Patiala, India,  page no 1074-1079</publisher>
+		<publisher>Proc. of IEEE International Advanced Computing Conference, (IACC ’09, March 6-7), Patiala, India,  page no 1074-1079</publisher>
 </publication>
 <publication category="Conference" year="2006" area="Mobile/Wireless Computing">
 		<title>Analysis and Optimization of Routing Protocols in IEEE802.15.4</title>
@@ -243,7 +251,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 
 
 <publication category="Journal" year="2015" area="Steganography">
-		<title>Text Based Steganography Â– A Theoretical Proposal of Text Based Hiding Strategy</title>
+		<title>Text Based Steganography – A Theoretical Proposal of Text Based Hiding Strategy</title>
 		<author>Ayan Chatterjee</author>
 		<author>Gourab Dolui</author>
 		<author>Uttam Kumar Roy</author>
@@ -282,7 +290,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>An Efficient Decentralized Middleware-based Load Balancing in state-full CORBA Object System</title>
 		<author>Uttam Kumar Roy</author>
 		<author>Samiran Chattopadhyay</author>
-		<publisher>Proc. of The 4th International Conference on Â”Computer Science and Information TechnologyÂ”(CSIT 2006), April 5-7, 2006, Amman, Jordan, vol. 1, page 317-326</publisher>
+		<publisher>Proc. of The 4th International Conference on ”Computer Science and Information Technology”(CSIT 2006), April 5-7, 2006, Amman, Jordan, vol. 1, page 317-326</publisher>
 </publication>
 <publication category="Conference" year="2005" area="Distributed Computing">
 		<title>Interceptor-based CORBA Object Proxy Caching System</title>
@@ -295,14 +303,14 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>Wraper based Object Caching in CORBA</title>
 		<author>Uttam Kumar Roy</author>
 		<author>Samiran Chattopadhyay</author>
-		<publisher>Proc. of Computing, Communications and Control Technologies, CCCT Â’04, August 14-17, University of Texas, Austin, USA, Vol-1, page no. 211-216</publisher>
+		<publisher>Proc. of Computing, Communications and Control Technologies, CCCT ’04, August 14-17, University of Texas, Austin, USA, Vol-1, page no. 211-216</publisher>
 </publication>
 
 <publication category="Conference" year="2004" area="Distributed Computing">
 		<title>Some studies on Object Caching in CORBA</title>
 		<author>Uttam Kumar Roy</author>
 		<author>Samiran Chattopadhyay</author>
-		<publisher>Proc. of Distributed Processing and Networking, DPN Â’04, IIT Kharagpur, India, page no 18-22</publisher>
+		<publisher>Proc. of Distributed Processing and Networking, DPN ’04, IIT Kharagpur, India, page no 18-22</publisher>
 </publication>
 
 <publication category="Conference" year="2002" area="Distributed Computing" >
@@ -317,7 +325,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>Modified PSOLA-Genetic Algorithm based approach for Voice Re-Construction</title>
 		<author>Banerjee P.S.</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Journal of Information Technology,  Publishing India Group, ISSN No. 2277-5110, vol. 2, no. 4, pp. 1Â–9, Sep-Nov 2013, URL: http://www.imanagerpublications.com/Author/ArticleHTML.aspx?articleID=2538&amp;issueid=493</publisher>
+		<publisher>Journal of Information Technology,  Publishing India Group, ISSN No. 2277-5110, vol. 2, no. 4, pp. 1–9, Sep-Nov 2013, URL: http://www.imanagerpublications.com/Author/ArticleHTML.aspx?articleID=2538&amp;issueid=493</publisher>
 </publication>
 
 <publication category="Conference" year="2016" area="Speech Synthesis">
@@ -328,7 +336,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 </publication>
 
 <publication category="Conference" year="2017" area="Speech Synthesis">
-		<title>Emotion Recognition Using Prosodic and Spectral Features of Speech and NaÃ¯ve Bayes Classifier</title>
+		<title>Emotion Recognition Using Prosodic and Spectral Features of Speech and Naïve Bayes Classifier</title>
 		<author>Atreyee Khan</author>
 		<author>Uttam Kumar Roy</author>
 		<publisher>Proc. Of International Conference on Wireless Communications Signal Processing and Networking, 22 - 24 March 2017, SSN College of Engineering, Chennai, India,  pp 1043-1047</publisher>
@@ -350,7 +358,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<publisher>International Conference on Multimedia Systems and Signal Processing (ICMSSP 2016), September 3-5, 2016 Tamkang University (TKU), New Taipei, Taiwan, Accepted</publisher>
 </publication>
 
-<publication category="Conference" year="2015" area="Music Synthesis">
+<publication category="Journal" year="2015" area="Music Synthesis">
 		<title>Concatenated Tabla Sound Synthesis to Help Musicians</title>
 		<author>Uttam Kumar Roy</author>
 		<publisher>4th ICACCI'15 Doctoral Consortium, Research in Computing Science 103(2015), ISSN: 1870-4069, pp 29-39, http://www.rcs.cic.ipn.mx/rcs/2015_103/</publisher>
@@ -366,7 +374,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
 		<author>Dinesh Halder</author>
-		<publisher>IEEE International Conference on Advanced Computational and Communication Paradigms Â– 2017 (ICACCP-2017), September 08-10, 2017, SMIT, Sikkim, India, just accepted</publisher>
+		<publisher>IEEE International Conference on Advanced Computational and Communication Paradigms – 2017 (ICACCP-2017), September 08-10, 2017, SMIT, Sikkim, India, In Press</publisher>
 </publication>
 
 <publication category="Conference" year="2017" area="BioInformatics">
@@ -374,11 +382,11 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
 		<author>Dinesh Halder</author>
-		<publisher>Journal of Current Engineering and Technology E-ISSN 2277 Â– 4106, P-ISSN 2347 Â– 5161, Vol.7, No.3, June 2017), pp 1092-1096</publisher>
+		<publisher>Journal of Current Engineering and Technology E-ISSN 2277 – 4106, P-ISSN 2347 – 5161, Vol.7, No.3, June 2017), pp 1092-1096</publisher>
 </publication>
 
 <publication category="Conference" year="2016" area="BioInformatics">
-		<title>Bio-Informatics Â– Review on Current Research and Evolution of Cancer Targeted Therapies</title>
+		<title>Bio-Informatics – Review on Current Research and Evolution of Cancer Targeted Therapies</title>
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
 		<publisher>Communications on Applied Electronics, January 2016 Vol. 4(3), pp 48-55, Published by Foundation of Computer Science (FCS), NY, USA.DOI-10.5120/cae2016652049</publisher>
@@ -395,7 +403,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>Bio-Informatics - Next Generation Cancer Targeted Therapies</title>
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Journal of Current Engineering and Technology, December-2015, E-ISSN 2277 Â– 4106, P-ISSN 2347 Â– 5161, Vol 5, Issue 6, pp 3866-3871, DOI: 10.14741/Ijcet/22774106/5.6.2015.66</publisher>
+		<publisher>Journal of Current Engineering and Technology, December-2015, E-ISSN 2277 – 4106, P-ISSN 2347 – 5161, Vol 5, Issue 6, pp 3866-3871, DOI: 10.14741/Ijcet/22774106/5.6.2015.66</publisher>
 </publication>
 
 <publication category="Conference" year="2015" area="BioInformatics">
@@ -403,14 +411,14 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<author>Anupam Ghosh </author>
 		<author>Mainak Talukdar</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Fifth International Conference on Advances in Computing and Information Technology (ACITY 2015) July 25~26, 2015, Chennai, India, published in Computer Science &amp; Information Technology by AIRCC, July 2015, ISSN: 2231 Â– 5403, ISBN : 978-1-921987-41-0, Volume 5, Number 13, pp. 63Â–74, DOI: 10.5121/csit.2015.51306</publisher>
+		<publisher>Fifth International Conference on Advances in Computing and Information Technology (ACITY 2015) July 25~26, 2015, Chennai, India, published in Computer Science &amp; Information Technology by AIRCC, July 2015, ISSN: 2231 – 5403, ISBN : 978-1-921987-41-0, Volume 5, Number 13, pp. 63–74, DOI: 10.5121/csit.2015.51306</publisher>
 </publication>
 <publication category="Journal" year="2015" area="BioInformatics">
 		<title>Determining Stable Ligand Orientation Using Particle Swarm Optimization</title>
 		<author>Anupam Ghosh </author>
 		<author>Mainak Talukdar</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Journal of Artificial Intelligence &amp; Applications (IJAIA), September 2015, ISSN : 0975-900X(Online), 0976-2191(Print), Vol. 6, No. 5,  pp. 109Â–119, DOI: 10.5121/ijaia.2015.6508 </publisher>
+		<publisher>Journal of Artificial Intelligence &amp; Applications (IJAIA), September 2015, ISSN : 0975-900X(Online), 0976-2191(Print), Vol. 6, No. 5,  pp. 109–119, DOI: 10.5121/ijaia.2015.6508 </publisher>
 </publication>
 
 <publication category="Journal" year="2015" area="Re-newable Energy">
