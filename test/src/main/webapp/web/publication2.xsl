@@ -68,7 +68,7 @@ Divided into three parts, the book provides exhaustive coverage of topics taught
 </tr>
 </table>
 
-   <h2>Reference Books (3)</h2>
+   <h2>Reference Books (6)</h2>
 
 
 <table border="0"  border-spacing="10px">
@@ -82,8 +82,8 @@ Divided into three parts, the book provides exhaustive coverage of topics taught
 <tr>
 <td colspan="1">
 <a target="_blank" href="https://www.lap-publishing.com/">
-    Caching and Load Balancing in Middleware-based Object Systems</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany| 221 Pages | 54 figures
-  | ISBN: 978-3-659-95609-6 | First edition published in November 2016.<br/><br/>
+    Caching and Load Balancing in Middleware-based Object Systems</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany | 221 Pages | 54 figures
+  | ISBN-13: 978-3-659-95609-6, ISBN-10: 3659956090 | First edition published in November 9, 2016.<br/><br/>
   In this book, I have presented a unified object caching architecture and implementation based on CORBA that can be used to cache different types of remote objects with a little modification of existing code. This approach is based on applications specific cache consistency policy, per process caching, object graph based data shipping and replication management. I have applied this architecture on applications with different types of system requirements and have made a performance comparison among them. I have demonstrated that the proposed architecture of caching results in improved performance for applications that exhibit a reasonable amount of read operations. I have then provided a 3-tier on-demand, adaptive, transparent load balancing architecture for state-full CORBA object caching system and implemented it. The proposed architecture uses a combination of interceptor and object wrapper to intercept requests at various points with minimum overhead that improves efficiency significantly. Instead of a centralized load balancer, balancing of load is performed entirely in distributed manner, which introduces the system as a fault-tolerant one.
 <br/><br/>
 </td>
@@ -91,16 +91,16 @@ Divided into three parts, the book provides exhaustive coverage of topics taught
 
 <tr>
 <td>
-  <a href="https://global.oup.com/academic/product/advanced-java-programming-9780199455508?lang=en&amp;cc=gb" ><img src="images/protein.jpg"/></a>
+  <a href="https://www.lap-publishing.com/" ><img src="images/protein.jpg"/></a>
 </td>
 </tr>
 <tr>
   <td colspan="1">
 <a target="_blank" href="https://www.lap-publishing.com/">Protein Structure Prediction...</a>,
-<a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany| 206 Pages | 217 figures
+<a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany | 228 Pages | 217 figures
 
 
-| ISBN: 978-3-330-00156-5 | First published in March 2015 <br/><br/>
+| ISBN-13: 978-3-330-00156-5, ISBN-10: 3330001569 | First published in November 11, 2016 <br/><br/>
 
 Computational Drug Design is important as it reduces conventional
 research deadline and cost. Here we have considered structure based drug
@@ -133,13 +133,70 @@ AutoDock Vina.
 <tr>
 <td colspan="1">
 <a target="_blank" href="https://www.lap-publishing.com/">
-    Distributed Object Caching In CORBA</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany| 90 Pages | 
-  | ISBN: 978-3-330-02060-3 | First edition published in Jan 18, 2017.<br/><br/>
+    Routing in Wireless Personal Area Network</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany | 96 Pages 
+  | ISBN-10: 6138390482, ISBN-13: 978-6138390480 | First edition published in 2018.<br/><br/>
+  Although, the network standard (IEEE 802.15.4-2003) for Wireless Personal Area Network (WPAN) targeted for Low rate, Low powered, Low memory devices, it has several problems. The primary problem of the specified Tree routing is that the maximum no of child (Router capable of end device) at any level and maximum network depth is fixed and is determined at the time of network formation. So the network can not grow beyond that max. Moreover, in some configurations, The maximum breadth of the network may be attained but maximum depth of the network may not be attained(because of the asymmetric nature of the physical area). Accordingly, a significant number of addresses get unused. In this book, we have addressed the network depth problem and provided several potential solutions such as address borrowing etc. Finally, we also have provided, a unified address reorganizing scheme which can be easily applied, to the tree network so that the network can grow beyond the maximum no. of child present at any level and overcome the address exhaustion problem by reorganizing address as per requirement but without adding any extra overhead of having a routing table.
+<br/><br/>
+
+</td>
+</tr>
+
+
+<tr>
+  <td >
+  <a href="https://www.lap-publishing.com/" ><img src="images/ZigBee.jpg"/></a>
+  </td>
+</tr>
+
+<tr>
+<td colspan="1">
+<a target="_blank" href="https://www.lap-publishing.com/">
+    Distributed Object Caching In CORBA</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany | 96 Pages 
+  | ISBN-13: 978-3-330-02060-3, ISBN-10: 3330020601 | First edition published in January 18, 2017.<br/><br/>
   This book provides a middleware-based unified object caching framework. The framework can seamlessly be used to cache different types of object graphs(such as standalone, simple and complex). Different types of caching policies (such as read-only, weak-consistency and strong-consistency) may also be customized based on the application scenario. The framework used Java’s Serialization procedure for object caching.
 <br/><br/>
 
 </td>
 </tr>
+
+
+
+<tr>
+  <td >
+  <a href="https://www.lap-publishing.com/" ><img src="images/pcg.jpg"/></a>
+  </td>
+</tr>
+
+<tr>
+<td colspan="1">
+<a target="_blank" href="https://www.lap-publishing.com/">
+    Robust Feature Space Optimization and Noise Removal from PCG</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany | 96 Pages 
+  | ISBN-10: 6138388860, ISBN-13: 978-6138388869 | First edition published in 2018.<br/><br/>
+  In this book, we have proposed a novel noise removal method of PCG signals using robust feature space optimization. The proposed method identifies the noisy PCG signals and eliminates them to ensure effective clinical analytics. We depict more than 85% accuracy and high specificity of identifying noisy PCG signals while experimenting over annotated PCG datasets from large publicly available MIT-Physionet database. We have also shown that propose noise removal has the capability to significantly improve the clinical utility like detection of cardiac normal/ abnormal condition from heart sound or PCG signals.
+<br/><br/>
+
+</td>
+</tr>
+
+
+<tr>
+  <td >
+  <a href="https://www.lap-publishing.com/" ><img src="images/emotion.jpg"/></a>
+  </td>
+</tr>
+
+<tr>
+<td colspan="1">
+<a target="_blank" href="https://www.lap-publishing.com/">
+    Emotion Recognition using Prosodic and Spectral Features of Speech</a>, <a target="_blank" href="https://www.lap-publishing.com/">LAMBERT Academic Publishing</a>, Heinrich-B&#246;cking-Stra&#223;e 6, 66121 Saarbr&#252;cken, Germany | 96 Pages 
+  | ISBN-10: 6139575028, ISBN-13: 978-6139575022 | First edition published in 2018.<br/><br/>
+  Our proposed method detects emotions from speech using prosodic and spectral features. It uses pitch and MFCC features of speech. This method performs the classification using Artificial Neural Network and Naïve Bayes Classifier. In this work the popular speech database Berlin Emo-Db is used for the classification. This paper also shows how the performance of speech emotion recognition system depends on the number of emotions to detect and the speaker. After performing the classification the accuracy of the system is also tested using the speech samples of Berlin Emo-db and the results are considerably better than many existing systems.
+<br/><br/>
+
+</td>
+</tr>
+
+
 
 </table>
 
@@ -172,9 +229,9 @@ AutoDock Vina.
          <a href="publication.jsp?sortBy=area">Area Wise</a> |
          <a href="publication.jsp?sortBy=category">Category Wise</a>
 
-         <ol>
+         <ol reversed="reversed">
             <xsl:apply-templates select="publication[generate-id(.)=generate-id(key('division',@*[name() = $sortBy])[1])]">
-               <xsl:sort select="@*[name() = $sortBy]" data-type="numeric" order="descending" />
+               <xsl:sort select="@*[name() = $sortBy]" data-type="text" order="descending" />
             </xsl:apply-templates>	
          </ol>
       </html>

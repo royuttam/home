@@ -13,7 +13,21 @@
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 -->
+<publication  category="Conference" year="2018" area="Health Analysis">
+		<title>Algorithm To Calculate BPM By Eliminating Touch Errors on Mobile Camera &amp; Observation</title>		
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Conference On New Trends In Engineering &amp; Technology(ICNTET-2018),IEEE Record #44368, just accepted</publisher>
+		<file>papersSubjectWise/m/m17.pdf</file>
+</publication>
 
+<publication  category="Conference" year="2018" area="Health Analysis">
+		<title>PPG Based Heart Rate Algorithm Improvement with Butterworth IIR Filter And Savitzky-Golay FIR Filter</title>		
+		<author>Ayan Chatterjee</author>
+		<author>Uttam Kumar Roy</author>
+		<publisher>International Conference on Electronics, Materials Engineering &amp; Nano-Technology(IEMENTech 2018), 4-5 May, 2018, IEM, Kolkata, to appear</publisher>
+		<file>papersSubjectWise/m/m17.pdf</file>
+</publication>
 
 <publication  category="Journal" year="2018" area="Health Analysis">
 		<title>Non-Invasive CardioVascular Monitoring</title>		
@@ -35,15 +49,16 @@
 		<title>Smart cardiac health management in IoT through heart sound signal analytics and robust noise filtering</title>		
 		<author>Arijit Ukil</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc. of 2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), ISSN: 2166-9589, DOI: 10.1109/PIMRC.2017.8292659, http://ieeexplore.ieee.org/document/8292659/</publisher>
+		<publisher>Proc. of 2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), ISSN: 2166-9589, 8-13 Oct. 2017, Montreal, QC, Canada, DOI: 10.1109/PIMRC.2017.8292659, http://ieeexplore.ieee.org/document/8292659/</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
-<publication  category="Conference" year="2018" area="Health Analysis">
-		<title>Algorithm To Calculate BPM By Eliminating Touch Errors on Mobile Camera &amp; Observation</title>		
+
+<publication  category="Journal" year="2018" area="Health Analysis">
+		<title>Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter</title>		
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>International Conference On New Trends In Engineering &amp; Technology(ICNTET-2018),IEEE Record #44368, just accepted</publisher>
+		<publisher>Journal of Computer Science &amp; Systems Biology, ISSN: 0974-7230, 11(2), pp 171-177, Mar 25, 2018, DOI: 10.4172/jcsb.1000268</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
@@ -58,7 +73,7 @@
 <publication  category="Conference" year="2016" area="Mobile/Wireless Computing">
 		<title>An Introspection on Effect of Framing and Bit-Error on Packet Delay</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>2016 IEEE International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE2016), Kolkata, India, December 16-17,2016, Techno India University, DOI: 10.1109/ICCECE.2016.8009552</publisher>
+		<publisher>2016 IEEE International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE2016), Kolkata, India, December 16-17,2016, Techno India University, DOI: 10.1109/ICCECE.2016.8009552, https://ieeexplore.ieee.org/document/8009552/</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
@@ -66,7 +81,7 @@
 		<title>Optimization of Weather Radar Network using PSO</title>
 		<author>Subhas Acharya</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>7th IEEE International Advanced Computing Conference (IACC2017), Hyderabad, Telengana, India, 5-7 January, 2017, pp 37-42, DOI 10.1109/IACC.2017.15</publisher>
+		<publisher>7th IEEE International Advanced Computing Conference (IACC2017), Hyderabad, Telengana, India, 5-7 January, 2017, pp 37-42, DOI 10.1109/IACC.2017.15, https://ieeexplore.ieee.org/document/7976757/</publisher>
 		<file>papersSubjectWise/m/m17.pdf</file>
 </publication>
 
@@ -91,7 +106,7 @@
 		<author>Anshu Bhuwania</author>
 		<author>Pritam Subba</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>2016 Second IEEE International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN 2016), September 23 - 25, 2016, pp 112-115</publisher>
+		<publisher>2016 Second IEEE International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN), 23-25 Sept. 2016, Kolkata, India, pp 112-115, DOI: 10.1109/ICRCICN.2016.7813641, https://ieeexplore.ieee.org/document/7813641/</publisher>
 </publication>
 
 <publication  category="Conference" year="2016" area="Mobile/Wireless Computing">
@@ -146,7 +161,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 <publication  category="Conference" year="2016" area="Mobile/Wireless Computing">
 		<title>Enhancing ZigBee Tree Routing to Support Large Pseudo-Linear Network Topologies</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc. of International Conference on Control, Instrumentation, Energy &amp; Communication (CIEC 16). January 28-30, 2016, IEEE Conf. Record No.: 36757, pp 501-505</publisher>
+		<publisher>Proc. of International Conference on Control, Instrumentation, Energy &amp; Communication (CIEC 16). January 28-30, 2016, Kolkata, India, IEEE Conf. Record No: 36757, pp 501-505, DOI: 10.1109/CIEC.2016.7513671, https://ieeexplore.ieee.org/document/7513671/</publisher>
 		<file>papersSubjectWise/m/m16.pdf</file>
 </publication>
 
@@ -154,7 +169,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>Combined Hybrid Routing Algorithm for WPAN</title>
 		<author>Debabrata Giri</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc. of International Conference on Control, Instrumentation, Energy &amp; Communication (CIEC 16). January 28-30, 2016, IEEE Conf. Record No.: 36757, pp 496-500</publisher>
+		<publisher>Proc. of International Conference on Control, Instrumentation, Energy &amp; Communication (CIEC 16). January 28-30, 2016, Kolkata, India, IEEE Conf. Record No.: 36757, pp 496-500, DOI: 10.1109/CIEC.2016.7513669, https://ieeexplore.ieee.org/document/7513669/</publisher>
 </publication>
 
 <publication  category="Conference" year="2016" area="Mobile/Wireless Computing">
@@ -167,7 +182,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 <publication  category="Conference" year="2015" area="Mobile/Wireless Computing">
 		<title>Modified Source-Routing for Large-Scale Pseudo Linear ZigBee Networks</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc.  of IEEE INTERNATIONAL CONFERENCE ON RESEARCH IN COMPUTATIONAL INTELLIGENCE AND COMMUNICATION NETWORKS (ICRCICN 2015). November 20-22, 2015, IEEE Conference Record Number: 36801, pp. 85-89, DOI: 10.1109/ICRCICN.2015.7434215, http://ieeexplore.ieee.org/document/7434215/?arnumber=7434215&amp;filter=AND(p_Publication_Number:7428302)</publisher>
+		<publisher>Proc.  of IEEE International Conference On Research In Computational Intelligence And Communication Networks (ICRCICN 2015). November 20-22, 2015, IEEE Conference Record Number: 36801, pp. 85-89, DOI: 10.1109/ICRCICN.2015.7434215, http://ieeexplore.ieee.org/document/7434215/?arnumber=7434215&amp;filter=AND(p_Publication_Number:7428302)</publisher>
 </publication>
 
 
@@ -185,7 +200,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 <publication  category="Conference" year="2014" area="Mobile/Wireless Computing">
 		<title>Extending ZigBee Tree Routing Protocol for Resource-Constrained Devices</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Asia Pacific Conference Wireless and Mobile (APWiMob2014), August 28-30, 2014, Bali, Indonesia, p-48-53, http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6920261&amp;tag=1</publisher>
+		<publisher>Asia Pacific Conference Wireless and Mobile (APWiMob2014), August 28-30, 2014, Bali, Indonesia, p-48-53, http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6920261&amp;tag=1, DOI: 10.1109/APWiMob.2014.6920261</publisher>
 </publication>
 
 <publication  category="Conference" year="2014" area="Mobile/Wireless Computing">
@@ -205,11 +220,11 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>WPAN Routing Using Huffman Technique</title>
 		<author>Debabrata Giri</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>International Journal of Engineering Sciences, Vol (2), No (2), February, 2013 Pages 49-61, ISSN: 2306-6474. http://waprogramming.com/index.php?action=paper&amp;jid=5&amp;iid=36&amp;pid=167</publisher>
+		<publisher>International Journal of Engineering Sciences, 2(2), pp 49-61, February, 2013, ISSN: 2306-6474. http://waprogramming.com/index.php?action=paper&amp;jid=5&amp;iid=36&amp;pid=167</publisher>
 </publication>
 
 <publication  category="Journal" year="2013" area="Mobile/Wireless Computing">
-		<title>Multilevel Address Reorganization category 2 I N Wireless Personal Area Network</title>
+		<title>Multilevel Address Reorganization category 2 in Wireless Personal Area Network</title>
 		<author>Debabrata Giri</author>
 		<author>Uttam Kumar Roy</author>
 		<publisher>International Journal of Wireless &amp; Mobile Networks (IJWMN) Vol 05, No. 1 February 2013, 01, pages 47 - 64., , ISSN: 0975–4679, e-ISSN : 0975–3834, DOI: 10.5121/ijwmn.2013.5104, http://airccse.org/Journal/jwmn/0213wmn04.pdf,</publisher>
@@ -332,19 +347,19 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<title>A Novel Bengali Text-to-Speech System to Achieve Both Intelligibility and Naturalness Using a Small Voice Database</title>
 		<author>Subhajyoti Barman</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>2016 IEEE International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE2016), Kolkata, India, December 16-17,2016, Techno India University, DOI: 10.1109/ICCECE.2016.8009548</publisher>
+		<publisher>2016 IEEE International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE2016), Kolkata, India, December 16-17,2016, Techno India University, DOI: 10.1109/ICCECE.2016.8009548, https://ieeexplore.ieee.org/document/8009552/</publisher>
 </publication>
 
 <publication category="Conference" year="2017" area="Speech Synthesis">
 		<title>Emotion Recognition Using Prosodic and Spectral Features of Speech and Naïve Bayes Classifier</title>
 		<author>Atreyee Khan</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc. Of International Conference on Wireless Communications Signal Processing and Networking, 22 - 24 March 2017, SSN College of Engineering, Chennai, India,  pp 1043-1047</publisher>
+		<publisher>Proc. Of International Conference on Wireless Communications Signal Processing and Networking(WiSPNET), 22-24 March 2017, SSN College of Engineering, Chennai, India,  pp 1043-1047, DOI: 10.1109/WiSPNET.2017.8299916¸https://ieeexplore.ieee.org/document/8299916/</publisher>
 </publication>
 <publication category="Conference" year="2016" area="Music Synthesis">
 		<title>Instrumental Bengali Music Synthesis from Transcription with Indian Percussion Instruments</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>2016 IEEE International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE2016), Kolkata, India, December 16-17,2016, Techno India University, DOI: 10.1109/ICCECE.2016.8009551</publisher>
+		<publisher>2016 IEEE International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE2016), Kolkata, India, December 16-17,2016, Techno India University, DOI: 10.1109/ICCECE.2016.8009551, https://ieeexplore.ieee.org/document/8009551/</publisher>
 </publication>
 
 <publication category="Conference" year="2016" area="Music Synthesis">
@@ -361,12 +376,12 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 <publication category="Journal" year="2015" area="Music Synthesis">
 		<title>Concatenated Tabla Sound Synthesis to Help Musicians</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>4th ICACCI'15 Doctoral Consortium, Research in Computing Science 103(2015), ISSN: 1870-4069, pp 29-39, http://www.rcs.cic.ipn.mx/rcs/2015_103/</publisher>
+		<publisher>"Research in Computing Science, Issue 103(2015), ISSN: 1870-4069, pp 29-39, June, 2015, http://www.rcs.cic.ipn.mx/rcs/2015_103/</publisher>
 </publication>
 <publication category="Conference" year="2015" area="Music Synthesis">
 		<title>Composing Recorded Tabla Sound to Accompany Musicians</title>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Proc. Of 2015 Annual IEEE India Conference (INDICON) - Communication &amp; Signal Processing, pp 1-6, DOI: 10.1109/INDICON.2015.7443114</publisher>
+		<publisher>Proc. Of 2015 Annual IEEE India Conference (INDICON) - Communication &amp; Signal Processing, December 17-20, 2015, Delhi India,  pp 1-6, DOI: 10.1109/INDICON.2015.7443114, https://ieeexplore.ieee.org/document/7443114/</publisher>
 </publication>
 
 <publication category="Conference" year="2017" area="BioInformatics">
@@ -374,7 +389,7 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<author>Ayan Chatterjee</author>
 		<author>Uttam Kumar Roy</author>
 		<author>Dinesh Halder</author>
-		<publisher>IEEE International Conference on Advanced Computational and Communication Paradigms – 2017 (ICACCP-2017), September 08-10, 2017, SMIT, Sikkim, India, In Press</publisher>
+		<publisher>IEEE International Conference on Advanced Computational and Communication Paradigms - 2017 (ICACCP-2017), September 08-10, 2017, SMIT, Sikkim, India, Springer LNEE 475, pp 351-359, DOI: 10.1007/978-981-10-8240-5_39, https://link.springer.com/chapter/10.1007%2F978-981-10-8240-5_39</publisher>
 </publication>
 
 <publication category="Conference" year="2017" area="BioInformatics">
@@ -406,12 +421,12 @@ Volume 458 of the series Advances in Intelligent Systems and Computing, Springer
 		<publisher>Journal of Current Engineering and Technology, December-2015, E-ISSN 2277 – 4106, P-ISSN 2347 – 5161, Vol 5, Issue 6, pp 3866-3871, DOI: 10.14741/Ijcet/22774106/5.6.2015.66</publisher>
 </publication>
 
-<publication category="Conference" year="2015" area="BioInformatics">
+<publication category="Journal" year="2015" area="BioInformatics">
 		<title>Stable drug designing by minimizing drug protein interaction energy using PSO</title>
 		<author>Anupam Ghosh </author>
 		<author>Mainak Talukdar</author>
 		<author>Uttam Kumar Roy</author>
-		<publisher>Fifth International Conference on Advances in Computing and Information Technology (ACITY 2015) July 25~26, 2015, Chennai, India, published in Computer Science &amp; Information Technology by AIRCC, July 2015, ISSN: 2231 – 5403, ISBN : 978-1-921987-41-0, Volume 5, Number 13, pp. 63–74, DOI: 10.5121/csit.2015.51306</publisher>
+		<publisher>Computer Science &amp; Information Technology, July 2015, ISSN: 2231 - 5403, 5(13), pp. 63-74, DOI: 10.5121/csit.2015.51306</publisher>
 </publication>
 <publication category="Journal" year="2015" area="BioInformatics">
 		<title>Determining Stable Ligand Orientation Using Particle Swarm Optimization</title>
